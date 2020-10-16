@@ -1,0 +1,59 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-size: 16px;
+  font-family: serif;
+  line-height: 1.5em;
+}
+
+/* Navigasi */
+.div_menu{
+  background-color: black;
+}
+
+a.menu{
+  color: white;
+  font-size: 18px;
+  display: inline-block;
+  text-transform: uppercase;
+  /* text-decoration: none; */
+}
+
+table, td{
+  border: none;
+}
+/* Akhir Navigasi */
+
+/* Slider */
+.slider-div{
+  margin: 10px 20px 0px 20px;
+}
+
+img.slider{
+
+}
+/* Akhir Slider */
+
+/* Content */
+p{
+  text-align: left;
+  margin: 20px 10px;
+}
+/* Akhir Content */
+
+/* Footer */
+footer{
+  background-color: black;
+  margin: 20px 0px;
+}
+
+div.footer{
+  font-size: 18px;
+  text-transform: uppercase;
+}
+
+div.footer, div.footer-alamat{
+  color: white;
+  text-align: center;
+}
+/* Akhir Footer */
